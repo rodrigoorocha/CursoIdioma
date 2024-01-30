@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vp6DzREIJjbPx69bUKYT5Aw5jEzpXheEIdLzbm+0iPDL+2yh+qNw77/df2TQqRgEvgdGDIDetShlKMPK5lbMg==",
+  "success": true,
+  "projectFilePath": "C:\\codigo\\c#\\Idiomas.CRUD\\Idiomas.CRUD.Domain\\Idiomas.CRUD.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

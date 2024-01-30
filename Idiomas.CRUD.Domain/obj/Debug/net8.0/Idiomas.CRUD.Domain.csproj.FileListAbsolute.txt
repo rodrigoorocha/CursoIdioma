@@ -1,0 +1,12 @@
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\bin\Debug\net8.0\Idiomas.CRUD.Domain.deps.json
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\bin\Debug\net8.0\Idiomas.CRUD.Domain.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\bin\Debug\net8.0\Idiomas.CRUD.Domain.pdb
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.csproj.AssemblyReference.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.AssemblyInfoInputs.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.AssemblyInfo.cs
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\refint\Idiomas.CRUD.Domain.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\Idiomas.CRUD.Domain.pdb
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Domain\obj\Debug\net8.0\ref\Idiomas.CRUD.Domain.dll

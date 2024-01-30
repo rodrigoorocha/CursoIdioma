@@ -1,0 +1,17 @@
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Infraestructure.deps.json
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Infraestructure.runtimeconfig.json
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Infraestructure.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Infraestructure.pdb
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Domain.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\bin\Debug\net8.0\Idiomas.CRUD.Domain.pdb
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.csproj.AssemblyReference.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.AssemblyInfoInputs.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.AssemblyInfo.cs
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.csproj.CoreCompileInputs.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.csproj.CopyComplete
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\refint\Idiomas.CRUD.Infraestructure.dll
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.pdb
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\Idiomas.CRUD.Infraestructure.genruntimeconfig.cache
+C:\codigo\c#\Idiomas.CRUD\Idiomas.CRUD.Infraestructure\obj\Debug\net8.0\ref\Idiomas.CRUD.Infraestructure.dll
